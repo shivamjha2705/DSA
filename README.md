@@ -8,9 +8,9 @@ This repository contains clean, well-documented Java solutions to important DSA 
 
 | #   | Problem                | Solution                                     | Category | Difficulty                                                                                 |
 | --- | ---------------------- | -------------------------------------------- | -------- | ------------------------------------------------------------------------------------------ |
-| 1   | Second Largest Element | [View Solution](./array/second-largest.java) | Array    | <span style="background-color:green; padding:4px 10px; border-radius:4px;">Easy</span>     |
-| 2   | Rotate Array (K Steps) | [View Solution](./array/rotate-array.java)   | Array    | <span style="background-color:#dc892b; padding:4px 10px; border-radius:4px;">Medium </span> |
-| 3   | Reverse Array          | [View Solution](./array/reverse-array.java)  | Array    | <span style="background-color:green; padding:4px 10px; border-radius:4px;">Easy</span>                                                                                   |
+| 1   | Second Largest Element | [View Solution](./Array/secondLargest.java) | Array    | <span style="background-color:green; padding:4px 10px; border-radius:4px;">Easy</span>     |
+| 2   | Rotate Array (K Steps) | [View Solution](./Array/rotateArray.java)   | Array    | <span style="background-color:#dc892b; padding:4px 10px; border-radius:4px;">Medium </span> |
+| 3   | Reverse Array          | [View Solution](./Array/reverseArray.java)  | Array    | <span style="background-color:green; padding:4px 10px; border-radius:4px;">Easy</span>                                                                                   |
 
 ---
 
